@@ -1,0 +1,5 @@
+#+Title: Rust Sudoku Solver
+
+A simple recursive sudoku-solver in rust.
+
+Input the sudoku as a textfile with spaces or 0 for empty cells.
